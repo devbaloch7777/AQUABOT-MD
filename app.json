@@ -1,5 +1,5 @@
 {
-    "name": "Aquabot - MD",
+    "name": "DEVBALOCH",
     "description": "AQUABOT  - Makes it easy and fun to use Whatsapp.",
     "logo": "https://i.ibb.co/V9jYrQC/aqua-md.jpg",
     "keywords": ["whatsapp", "userbot", "aqua", "bot", "ai" , "MD" ],
@@ -38,18 +38,18 @@
              },
             "OWN_NAME": {
             "description": "",
-            "value": "your name" ,
+            "value": "DEVBALOCH" ,
             "required": true
              },
              "OWN_NUMBER": {
             "description": "",
-            "value": "94xxxxxxxxx" ,
+            "value": "923461253726" ,
             "required": true
              },
        
             "AUTO_REACT": {
             "description": "",
-            "value": "false" ,
+            "value": "true" ,
             "required": true
              },
            
@@ -75,7 +75,7 @@
       },
        "FOOTER": {
             "description": "",
-            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰𝙱𝙾𝚃 ²⁰²²" ,
+            "value": "𝙿𝙾𝚆𝙴𝚁𝙴𝙳 𝙱𝚈 𝙳𝙴𝚅𝙱𝙰𝙻𝙾𝙲𝙷 ²⁰²³" ,
             "required": true
       },
      "ANTI_LINK": {
@@ -85,13 +85,13 @@
       },
        "CAPTION": {
             "description": "",
-            "value": "© 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙰𝚀𝚄𝙰 ²⁰²²" ,
+            "value": "𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 𝙳𝙴𝚅𝙱𝙰𝙻𝙾𝙲𝙷 ²⁰²³" ,
             "required": true
       },
        "INBOX_BLOCK": {
             "description": "",
             "value": "false" ,
-            "required": true
+            "required": false
       },
        "INBOX_BLOCK_MSG": {
             "description": "",
@@ -141,7 +141,7 @@
       },
           "STIC_WM": {
             "description": "",
-            "value": "⛲αqυα ⃨𝚋oƚ ࿐" ,
+            "value": "DEVBALOCH,
             "required": true
       },
           "WORK_TYPE": {
